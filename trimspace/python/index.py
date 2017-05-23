@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
-# run it with: python index.py
+# run it with: 
+#   python index.py
 
 if __name__ == "__main__":
     s = " xx "
