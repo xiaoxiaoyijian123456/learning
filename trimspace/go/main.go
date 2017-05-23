@@ -1,7 +1,6 @@
-package main
-
 // run it with:
 //    go run main.go
+package main
 
 import (
 	"fmt"

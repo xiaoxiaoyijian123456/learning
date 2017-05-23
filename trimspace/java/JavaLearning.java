@@ -1,5 +1,5 @@
 // run it with: (add . to CLASSPATH)
-//   javac javac JavaLearning.java
+//   javac JavaLearning.java
 //   java JavaLearning 
 public class JavaLearning {
     public static void main(String[] args) {
