@@ -1,0 +1,7 @@
+[package]
+name = "rust"
+version = "0.1.0"
+authors = ["?steven <m13581647166@163.com>"]
+
+[dependencies]
+csv = "0.15.0"
