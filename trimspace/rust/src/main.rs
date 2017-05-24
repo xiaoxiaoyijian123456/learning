@@ -1,4 +1,5 @@
 // run it with
+//   cargo build
 //   cargo run
 
 fn main() {
